@@ -1,0 +1,6 @@
+
+crud - com jquery/node_modules/jquery/dist/jquery.js
+*.map
+*.json
+crud - com jquery/node_modules/jquery/dist/jquery.min.js
+*.js
